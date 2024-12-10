@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(247, 139, 205);
+}
+
+h1{
+    text-align: center;
+    font-family: Cute Font;
+    font-size: 75px;
+}
+.lovegif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    text-align: center;
+}
+
+.loveme{
+    text-align: center;
+    font-family: Cute font;
+    font-size: 45px;
+    margin-top: -25px;
+}
+
+.button-text{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#no{
+    border-radius: 10px;
+}
+#yes{
+    border-radius: 10px;
+}
+.button-text #no{
+    margin-bottom: 15px;
+}
